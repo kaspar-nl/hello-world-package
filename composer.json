@@ -1,5 +1,5 @@
 {
-    "name": "kaspar-nl/hello-world-package",
+    "name": "kasparnl/hello-world-package",
     "description": "A hello world composer private package.",
     "autoload": {
         "psr-4": {
